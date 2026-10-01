@@ -6,6 +6,9 @@ In modern cloud computing, handling unpredictable workloads without over-provisi
 
 In this project, we will walk through a hands-on project to build a highly scalable, decoupled architecture on AWS.
 
+<img width="833" height="705" alt="AWS Auto Scaling with SQS_V2" src="https://github.com/user-attachments/assets/b0e15ebd-6d93-4a16-895f-8d9e691d2156" />
+
+
 ---
 
 ## 🎯 The Objective
